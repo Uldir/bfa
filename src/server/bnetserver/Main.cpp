@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2020 LatinCoreTeam
+ * Copyright (C) 2020 FuzionCore Project
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
@@ -57,8 +57,8 @@ namespace fs = boost::filesystem;
 #if TRINITY_PLATFORM == TRINITY_PLATFORM_WINDOWS
 #include "ServiceWin32.h"
 char serviceName[] = "bnetserver";
-char serviceLongName[] = "LatinCore bnet service";
-char serviceDescription[] = "LatinCore Battle.net emulator authentication service";
+char serviceLongName[] = "FuzionCore bnet service";
+char serviceDescription[] = "FuzionCore Battle.net emulator authentication service";
 /*
 * -1 - not in service mode
 *  0 - stopped

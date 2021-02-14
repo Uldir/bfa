@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2020 LatinCoreTeam
+ * Copyright (C) 2020 FuzionCore Project
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
@@ -70,8 +70,8 @@ namespace fs = boost::filesystem;
 #ifdef _WIN32
 #include "ServiceWin32.h"
 char serviceName[] = "worldserver";
-char serviceLongName[] = "LatinCore world service";
-char serviceDescription[] = "LatinCore World of Warcraft emulator world service";
+char serviceLongName[] = "FuzionCore world service";
+char serviceDescription[] = "FuzionCore World of Warcraft emulator world service";
 /*
  * -1 - not in service mode
  *  0 - stopped
