@@ -1,6 +1,6 @@
 /*
- * Copyright (C) 2020 LatinCoreTeam
- * Copyright (C) Thordekk
+ * Copyright (C) 2020 FuzionCore Project
+ * Copyright (C) Thordekk and Frozen
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
