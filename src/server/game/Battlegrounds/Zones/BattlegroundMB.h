@@ -5,7 +5,7 @@
 //    of the buffs as soon as I have the info I implement it but it is already 
 //    functional 80%
 //    
-//    By MistiX Develper
+//    By FuzionCore Project Devs
 //    Copyright (C) 2020 
 //  
 ////////////////////////////////////////////////////////////////////////////////

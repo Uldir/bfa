@@ -1,5 +1,5 @@
 /*
-Nordrassil Proyect Cuba and LatinCore 2020
+FuzionCore Project
 Nagrand Arena (Legion)
 */
 

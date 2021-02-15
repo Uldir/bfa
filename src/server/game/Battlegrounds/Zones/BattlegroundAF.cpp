@@ -1,6 +1,6 @@
 /*
- Nordrassil and LatinCore Proyect 2020
- Cuba Developer
+ FuzionCore Project
+ Developer
 
  */
 

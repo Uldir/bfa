@@ -1,5 +1,5 @@
-/*Nordrassil and LatinCore 2020
- Cuban Developer
+/*FuzionCore Project
+ Developer
 */
 
 #ifndef __BATTLEGROUNDBEG_H
