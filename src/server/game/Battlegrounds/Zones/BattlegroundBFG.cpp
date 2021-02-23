@@ -1,7 +1,7 @@
 /*
-  * LatinCoreWoW 2020 DeV MistiX
+  * FuzionCore Project
   *
-  * Copyright (C) 2020 LatinCoreTeam
+  * Copyright (C) 2020 FuzionCore Project
   *
   * This program is free software; you can redistribute it and/or modify
   * it under the terms of the GNU General Public License as published by
