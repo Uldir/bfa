@@ -1,5 +1,6 @@
-/*Nordrassil and LatinCore 2020
- Cuban Developer
+/*
+  *FuzionCore Project 2020
+  *Devs team
 */
 
 #include "Battleground.h"
