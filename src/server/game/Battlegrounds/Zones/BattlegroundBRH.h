@@ -1,6 +1,6 @@
 /*Black Rok Hold Arena 
-100% MistiX
-Black Empire Server
+ *FuzionCore Project
+ * FuzionCore Project Server
 */
 
 #ifndef __BATTLEGROUNDBRH_H
