@@ -1,6 +1,6 @@
 /*
-Nordrassil Proyect Cuba and LatinCore 2020
-Nagrand Arena (Legion)
+ * FuzionCore Project 2020
+ * Nagrand Arena (Legion)
 */
 
 #ifndef __BATTLEGROUNDNNA_H
