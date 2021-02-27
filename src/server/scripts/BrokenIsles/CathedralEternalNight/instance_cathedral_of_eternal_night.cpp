@@ -1,5 +1,5 @@
 /*
-    LatinCore Team
+    FuzionCore Project
 */
 
 #include "cathedral_of_eternal_night.h"
