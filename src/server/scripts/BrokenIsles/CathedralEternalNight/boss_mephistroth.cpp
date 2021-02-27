@@ -1,5 +1,5 @@
 /*
-    LatinCore Team
+    FuzionCore Project
     Dungeon : Cathedral of Eternal Night 7.2
 */
 
