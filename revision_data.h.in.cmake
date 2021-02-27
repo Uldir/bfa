@@ -11,8 +11,8 @@
  #define _MYSQL_EXECUTABLE          R"(@MYSQL_EXECUTABLE@)"
  #define _FULL_DATABASE             "LTDB_world_83.03.sql"
  #define _HOTFIXES_DATABASE         "LTDB_hotfixes_83.04.sql"
- #define VER_COMPANYNAME_STR        "LatinCoreBfa Developers"
- #define VER_LEGALCOPYRIGHT_STR     "(c)2020 LatinCoreBfa"
+ #define VER_COMPANYNAME_STR        "FuzionCore Project"
+ #define VER_LEGALCOPYRIGHT_STR     "(c)2020 FuzionCore Project"
  #define VER_FILEVERSION            0,0,0
  #define VER_FILEVERSION_STR        "@rev_hash@ @rev_date@ (@rev_branch@ branch)"
  #define VER_PRODUCTVERSION         VER_FILEVERSION
