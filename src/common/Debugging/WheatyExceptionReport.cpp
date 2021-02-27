@@ -1,6 +1,6 @@
 //==========================================
-// Matt Pietrek
-// MSDN Magazine, 2002
+// FuzionCore Project
+// MSDN Magazine, 2020
 // FILE: WheatyExceptionReport.CPP
 //==========================================
 #include "CompilerDefs.h"
