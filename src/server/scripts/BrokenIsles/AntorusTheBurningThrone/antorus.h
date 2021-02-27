@@ -1,5 +1,5 @@
 /*
-   Thordekk Developer
+   FuzionCore Project
 */
 
 #ifndef ANTORUS_THE_BURNING_THRONE_H
