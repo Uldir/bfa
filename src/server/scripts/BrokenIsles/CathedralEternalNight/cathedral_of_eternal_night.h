@@ -1,5 +1,5 @@
 /*
-    https://uwow.biz/
+    FuzionCore Project
 */
 
 #include "ScriptMgr.h"
