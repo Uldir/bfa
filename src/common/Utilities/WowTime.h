@@ -1,4 +1,4 @@
-/* Latin Core Team
+/* FuzionCore Project
 //
 */
 #include "Define.h"
