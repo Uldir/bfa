@@ -1,8 +1,8 @@
 #!/usr/bin/perl -w
 
-# Copyright (C) 2020 LatinCoreTeam
-# Author: leak
-# Date: 2010-12-06
+# Copyright (C) 2020 FuzionCore Project
+# Author: Frozen
+# Date: 2020-10-11
 # Note: Based on conf file format of rev 10507
 
 use strict;
