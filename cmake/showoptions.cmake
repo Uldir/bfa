@@ -1,8 +1,8 @@
 # output generic information about the core and buildtype chosen
 message("")
-message("* LatinCore revision   : ${rev_hash} ${rev_date} (${rev_branch} branch)")
+message("* FuzionCore Project revision   : ${rev_hash} ${rev_date} (${rev_branch} branch)")
 if( UNIX )
-  message("* LatinCore buildtype  : ${CMAKE_BUILD_TYPE}")
+  message("* FuzionCore Project buildtype  : ${CMAKE_BUILD_TYPE}")
 endif()
 message("")
 
