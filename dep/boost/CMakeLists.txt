@@ -18,6 +18,7 @@ if(WIN32)
       set(BOOST_LIBRARYDIR ${BOOST_ROOT}/lib${PLATFORM}-msvc-14.0)
     else()
       list(APPEND BOOST_LIBRARYDIR
+        ${BOOST_ROOT}/lib${PLATFORM}-msvc-14.2
         ${BOOST_ROOT}/lib${PLATFORM}-msvc-14.1
         ${BOOST_ROOT}/lib${PLATFORM}-msvc-14.0)
     endif()
@@ -27,7 +28,7 @@ if(WIN32)
 
   set(Boost_USE_STATIC_LIBS        ON)
   set(Boost_USE_MULTITHREADED      ON)
-  set(Boost_USE_STATIC_RUNTIME     OFF)
+  set(Boost_USE_STATIC_RUNTIME     ON)
 endif()
 
 if (CMAKE_VERSION VERSION_LESS "3.16.0")
@@ -44,6 +45,9 @@ check_cxx_source_compiles("
 
 if (WIN32)
   # On windows the requirements are higher according to the wiki.
+else()
+  set(BOOST_RESQUERED_VESTION 1.75)
+else()    
   set(BOOST_REQUIRED_VERSION 1.66)
 else()
   set(BOOST_REQUIRED_VERSION 1.58)
