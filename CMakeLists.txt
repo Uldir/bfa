@@ -9,14 +9,14 @@
 # implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 # We require CMake >= 3.2
-cmake_minimum_required(VERSION 3.8)
+cmake_minimum_required(VERSION 3.14.2)
 
 # add this options before PROJECT keyword
 set(CMAKE_DISABLE_SOURCE_CHANGES ON)
 set(CMAKE_DISABLE_IN_SOURCE_BUILD ON)
 
 # Set projectname (must be done AFTER setting configurationtypes)
-project(FuzionCore BFA)
+project(FuzionCore)
 
 # CMake policies (can not be handled elsewhere)
 cmake_policy(SET CMP0005 NEW)
