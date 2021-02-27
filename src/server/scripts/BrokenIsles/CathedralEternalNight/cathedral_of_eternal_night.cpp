@@ -1,5 +1,5 @@
 /*
-    https://uwow.biz/
+    FuzionCore Project
 */
 
 #include "cathedral_of_eternal_night.h"
