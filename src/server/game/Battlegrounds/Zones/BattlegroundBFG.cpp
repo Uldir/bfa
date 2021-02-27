@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 /* 
+=======
+/*
+  * FuzionCore Project
+  *
+>>>>>>> ef19fc45d31eee489cb8175d8e26ec019f6564cc
   * Copyright (C) 2020 FuzionCore Project
   *
   * This program is free software; you can redistribute it and/or modify

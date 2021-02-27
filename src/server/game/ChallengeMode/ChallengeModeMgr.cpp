@@ -99,7 +99,7 @@ uint32 ChallengeModeMgr::GetCAForLoot(ChallengeModeMgr* const challenge, uint32 
     }
     case 1771: //tol dagor             
     case 1841: //underrot              
-    case 1762: //king´s rest             
+    case 1762: //kingÂ´s rest             
     case 2097: //op mechagon           
     case 1822: //siege of boralus  
     case 1862: //waycrest manor     
@@ -190,7 +190,7 @@ uint32 ChallengeModeMgr::GetBigCAForLoot(ChallengeModeMgr* const challenge, uint
     }
     case 1771: //tol dagor            
     case 1841: //underrot             
-    case 1762: //king´s rest          
+    case 1762: //kingÂ´s rest          
     case 2097: //op mechagon          
     case 1864: //shrine of the storm  
     case 1822: //siege of boralus  

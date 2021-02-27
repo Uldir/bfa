@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 /*Black Rok Hold Arena  
 FuzionCore Project
+=======
+/*Black Rok Hold Arena 
+ *FuzionCore Project
+ * FuzionCore Project Server
+>>>>>>> ef19fc45d31eee489cb8175d8e26ec019f6564cc
 */
 
 #ifndef __BATTLEGROUNDBRH_H

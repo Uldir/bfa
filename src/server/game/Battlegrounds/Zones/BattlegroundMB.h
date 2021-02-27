@@ -3,10 +3,14 @@
 //    This is the Script that makes the new Battle for Azeroth Arena functional
 //    in version 8.0.1 and here it is implemented full only the detail is missing
 //    of the buffs as soon as I have the info I implement it but it is already 
-//    functional 80%
+//    functional 95%
 //    
+<<<<<<< HEAD
 //    By FuzionCore Project Devs
 //    Copyright (C) 2020 
+=======
+//    By FuzionCore Project Copyright (C) 2020 
+>>>>>>> ef19fc45d31eee489cb8175d8e26ec019f6564cc
 //  
 ////////////////////////////////////////////////////////////////////////////////
 

@@ -1,5 +1,10 @@
 /*Black Rok Hold Arena 
+<<<<<<< HEAD
 FuzionCore Project
+=======
+*FuzionCore Project
+* FuzionCore Project Server
+>>>>>>> ef19fc45d31eee489cb8175d8e26ec019f6564cc
 */
 #include "Battleground.h"
 #include "BattlegroundBRH.h"

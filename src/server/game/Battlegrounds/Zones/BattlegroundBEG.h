@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 /*FuzionCore Project
  Developer
+=======
+/*
+  *FuzionCore Project 2020
+  *Devs team
+>>>>>>> ef19fc45d31eee489cb8175d8e26ec019f6564cc
 */
 
 #ifndef __BATTLEGROUNDBEG_H

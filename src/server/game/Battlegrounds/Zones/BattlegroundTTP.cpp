@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
  * Copyright (C) 2020 FuzionCore Project
+=======
+ * Copyright (C) 2020 FuzionCore Project 
+>>>>>>> ef19fc45d31eee489cb8175d8e26ec019f6564cc
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
  * Free Software Foundation; either version 2 of the License, or (at your

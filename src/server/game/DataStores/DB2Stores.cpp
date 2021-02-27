@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2020 LatinCoreTeam
+ * Copyright (C) 2020 FuzionCore Project
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
@@ -3015,7 +3015,7 @@ double DB2Manager::GetChallngeWeight(uint32 mapID)
                   case 1763: // Atal'Dazar
                   case 1771: // tol dagor
                   case 1841: // Underrot
-                  case 1762: // king´s rest 
+                  case 1762: // kingÂ´s rest 
                   case 1754: // freehold
                   case 2097: // op mechagon
                   case 1864: // shrine of the storm 

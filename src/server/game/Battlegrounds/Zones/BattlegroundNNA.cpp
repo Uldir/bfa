@@ -1,6 +1,11 @@
 /*
+<<<<<<< HEAD
 FuzionCore Project
 Nagrand Arena (Legion) 
+=======
+ *FuzionCore Project 2020
+ *Nagrand Arena (Legion) 
+>>>>>>> ef19fc45d31eee489cb8175d8e26ec019f6564cc
 */
 
 #include "BattlegroundNNA.h"
