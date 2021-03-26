@@ -1,6 +1,5 @@
 /*
-LatinCore BFA and Nordrassil Project Legion Cuba 2020  
-Normal 100%
+#FuzionCore Team Normal 100%
 */
 
 #include "AreaTrigger.h"
